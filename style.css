@@ -1,0 +1,39 @@
+
+div{
+    background: radial-gradient(circle at -3.7% -5%, rgb(113, 213, 225) 0.3%, rgb(73, 146, 226) 90.5%);
+    height: 100vh;
+    padding: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+}
+p{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    
+}
+.btn {
+    background-color: rgb(25, 25, 153);
+    border: none;
+    color: white;
+    padding: 30px 32px;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin: auto;
+    cursor: pointer;
+    border-radius:100vh;
+    width: fit-content;
+}
+
+
+.btn:hover{
+    background: radial-gradient(circle at 74.2% 50.9%, rgb(14, 72, 222) 5.2%, rgb(3, 22, 65) 75.3%);
+}
